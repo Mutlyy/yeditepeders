@@ -1,2 +1,2 @@
 # yeditepeders
-Phyton kodlarının barındığı yer
+Phyton_trinket_deneme
