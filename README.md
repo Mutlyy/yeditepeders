@@ -1,2 +1,3 @@
 # yeditepeders
-Phyton_trinket_deneme
+Phyton_trinket_
+
