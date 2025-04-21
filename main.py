@@ -1,7 +1,6 @@
 x=input("Bir sözcük giriniz : ")
-y=int(input("Bir sayi giriniz :"))
-if y<len(x):
-    x1= x[:y]
-    x2= x[y:]
-    x=x1+"-"+x2
-    print(x)
+z=input("Bir harf giriniz :")
+y=int(input("Bir sayi giriniz :")) -1
+
+cevap=x[:y] + z + x [y+1:]
+print(cevap)
