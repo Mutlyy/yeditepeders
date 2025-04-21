@@ -1,4 +1,9 @@
-x=input("lütfen bir sözcük giriniz :")
-print(x[0] + x[-1])
+x=input("Lütfen bir adinizi giriniz : ")
+print(x[1:4])
+
+
+
+
+
 
 
