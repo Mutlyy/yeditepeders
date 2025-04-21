@@ -1,3 +1,4 @@
 x=input("Bir sözcük giriniz : ")
-for harf in x :
-  print(harf + "!")
+y=input("Bir harf giriniz :" )
+def_baston=x.count(y)
+print(def_baston)
