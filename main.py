@@ -1,4 +1,4 @@
-x=input("lütfen adinizi giriniz :")
-y=input("lütfen soyadinizi giriniz :")
-sonuc = x[0] +"." + y[0]
-print(sonuc)
+x=input("lütfen bir sözcük giriniz :")
+print(x[0] + x[-1])
+
+
