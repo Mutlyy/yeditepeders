@@ -1,7 +1,47 @@
-x=input("Bir sözcük giriniz : ")
-ses_hrf="aeıioöuüAEIİOÖUÜ"
-sayici=0
-for harf in x:
- if x in ses_hrf:
-   sayici +=1
-print(sayici)
+notlar = (85, 90, 78)  
+ortalama = sum(notlar) / len(notlar)
+print("Not ortalaması:", ortalama)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
