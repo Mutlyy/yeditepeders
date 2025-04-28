@@ -1,0 +1,33 @@
+notlar = (85, 32, 78)  
+ortalama = sum(notlar) / len(notlar)
+print("Not ortalaması:", ortalama)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
